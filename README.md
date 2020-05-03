@@ -10,3 +10,5 @@ The task of this project is to predict if given orders will be cancelled.
 The solution presented in the notebook Order_cancellation_prediction.ipynb was good enough
 to secure me 4th place in the challenge leaderboard.
 https://www.kaggle.com/c/online-retail/leaderboard
+
+![Alt text](pic.png?raw=true "Diagram")
